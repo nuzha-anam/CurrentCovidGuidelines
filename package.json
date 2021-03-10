@@ -9,6 +9,12 @@
   "author": "nuzha anam",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.17.1"
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.5",
+    "express": "^4.17.1",
+    "node-local-tunnel": "^0.1.8",
+    "puppeteer": "^8.0.0",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
   }
 }
